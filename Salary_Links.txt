@@ -1,0 +1,115 @@
+General:
+http://state-employees.findthedata.com/
+http://faculty-salaries.startclass.com/
+http://data.chronicle.com/#id=144050
+http://www.aacsb.edu/
+http://www.ams.org/profession/data/annual-survey/facsal
+http://data.chronicle.com/faculty-salaries/
+
+U Conn:
+http://transparency.ct.gov/html/main.asp
+
+U Kentucky:
+http://www.kentucky.com/2015/06/05/3886199/search-updated-2015-university.html
+http://www.bizjournals.com/louisville/news/2014/10/27/lets-take-a-look-at-university-of-kentucky.html
+http://www.uky.edu/hr/compensation
+http://opendoor.ky.gov/search/Pages/SalarySearch.aspx
+
+UWash
+http://fiscal.wa.gov/Salaries.aspx
+
+UMich
+http://www.umsalary.info/deptsearch.php?Dept=Biostatistics+Department&Year=0&Campus=0
+
+OSU
+http://www.bizjournals.com/columbus/blog/2015/05/osu-salary-database-updated-for-2015.html
+http://www.bizjournals.com/columbus/datacenter/datacenter-osu-salaries-2012.html
+http://www.bizjournals.com/columbus/datacenter/osu-salaries.html
+http://b3.caspio.com/dp.asp?AppKey=d95b1000203c6243c34846d38419
+
+U Minnesota
+http://extra.twincities.com/car/salaries/
+http://www1.umn.edu/ohr/pay/salaries/
+
+U California
+https://ucannualwage.ucop.edu/wage/
+http://www.sacbee.com/site-services/databases/state-pay/article2642161.html#req=employee%2Ftop%2Fyear%3D2013
+http://compensation.universityofcalifornia.edu/reports.html
+
+UChicago Illinois
+http://salarysearch.ibhe.org/search.aspx
+
+Iowa State University
+http://db.desmoinesregister.com/state-salaries-for-iowa
+https://www.legis.iowa.gov/publications/fiscal/salaryBook
+
+
+
+Pennsylvania:
+http://lancasteronline.com/news/list-of-salaries-at-pennsylvania-s-state-owned-universities/article_86dea8d2-9930-5ae3-8440-d7d4b3c484b6.html
+
+# Need System of Higher Education
+http://www.infosourcepublic.pa.gov/BOECustom/pennwatch/PWReport.jsp?ReportLink=AYS2VKP8uB9GuuvCilbrLTE%23sIDType%3DCUID%23sInstance%3DLast%23token%3Denssapp04:6400@22476474JiWYsYwRkWukH8du5V640jW22476472JyE54GLi4qQy099nO7pozP5
+https://opendata.socrata.com/Education/2013-Salaries-Pennsylvania-State-System-of-Higher-/26jq-uk2i
+
+U Wisconsin:
+http://host.madison.com/news/local/education/university/database-uw-system-employee-salaries/html_9b9f1b0c-a915-11e2-aa91-001a4bcf887a.html
+http://www.bizjournals.com/milwaukee/datacenter/university-of-wisconsin-system-salary-database.html
+http://www.jsonline.com/watchdog/dataondemand/wisconsin-state-employee-salaries-2014-303771371.html
+
+Purdue: 
+http://www.jconline.com/story/news/special-reports/data-central/2015/03/05/purdue-university-salary-database-2014/24427819/
+http://php.jconline.com/databases/purduesalary2010/index.php
+http://archive.jconline.com/viewart/99999999/DATA01/302040041/purdue-salary-database-pay-compensation-2013
+
+http://www.postcrescent.com/story/news/investigations/2014/09/11/wisconsin-state-employee-salaries-2014/14385211/
+
+UNC:
+http://www.newsobserver.com/news/databases/public-salaries/
+http://oshr.nc.gov/state-employee-resources/classification-compensation/compensation
+http://www.charlotteobserver.com/news/databases/article9025346.html
+
+U Florida:
+http://www.ir.ufl.edu/factbook/v-14_salaries.pdf
+http://www.gainesville.com/article/99999999/MULTIMEDIA/130809522
+http://www.gainesville.com/article/99999999/MULTIMEDIA/111019531?tc=cr
+http://www.bizjournals.com/southflorida/blog/morning-edition/2014/10/university-salaries-whos-the-highest-paid-employee.html
+http://www.bizjournals.com/southflorida/datacenter/database-2014-florida-universities-employee.html
+
+U Georgia:
+http://www.open.georgia.gov/sta/viewMain.aud
+
+U Missouri:
+http://www.stltoday.com/news/local/stl-info/university-of-missouri-employee-payroll/html_7d356bce-2e6e-5f75-9425-4d2f2c53c86b.html
+https://uminfopoint.umsystem.edu/media/fa/planning/annual_salary_report.pdf
+https://www.google.com/fusiontables/data?docid=1eKwifgzWtM8TClGM7V7nMdGkJeyo7n7jHQ5mDMw
+http://mapyourtaxes.mo.gov/MAP/Employees/Employee/SearchEmployees.aspx
+
+
+Michigan State University:
+http://www.msusalaries.info/
+http://msu.edu/state-transparency-reporting/assets/documents/Sec245FY15SalaryList.pdf
+http://www.budget.msu.edu/documents/2011-12EmployeeListing.pdf
+http://php.news-leader.com/salaries/msu.html
+http://dev.opb.msu.edu/budget/documents/2011-12FacultyAcademicStaffSalaryList.pdf
+http://msu.edu/state-transparency-reporting/assets/documents/Sec245FY14SalaryList.pdf
+http://catalog.lib.msu.edu/record=b9350923
+http://opb.msu.edu/budget/budgetHistory.asp
+"From 2014-15, individual employee names are no longer available online. See the print copy for employee names."
+
+University New Mexico:
+http://sunshine.unm.edu/salbk/Pages/default.aspx
+
+Rutgers New Jersey:
+http://archive.mycentraljersey.com/section/DATAUNIVERSE12/Datauniverse-Rutgers-University-employees
+http://php.app.com/rutgersweb/search.php
+http://www.yourmoney.nj.gov/transparency/payroll/
+https://data.nj.gov/Governor-s-Transparency-Data/YourMoney-Agency-Payroll/iqwc-r2w7
+https://data.nj.gov/payroll_explorer
+
+Oklahoma State University:
+http://www.tulsaworld.com/news/databases/higher-education-employee-salaries/html_dab92ffc-2b75-11e3-b3e4-0019bb30f31a.html
+http://oklahomawatchdata.org/university-salaries
+https://irim.okstate.edu/FSS
+https://data.ok.gov/dataset/state-oklahoma-payroll-q4-2012
+https://data.ok.gov/browse/salary
