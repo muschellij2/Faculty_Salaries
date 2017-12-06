@@ -1,4 +1,6 @@
 General:
+http://database.collegemedia.com/databases/salaries/salary.html
+
 http://state-employees.findthedata.com/
 http://faculty-salaries.startclass.com/
 http://data.chronicle.com/#id=144050
@@ -11,6 +13,7 @@ http://transparency.ct.gov/html/main.asp
 
 U Kentucky:
 http://www.kentucky.com/2015/06/05/3886199/search-updated-2015-university.html
+http://b2.caspio.com/dp.asp?AppKey=c8521000bee44849128a4eef8052
 http://www.bizjournals.com/louisville/news/2014/10/27/lets-take-a-look-at-university-of-kentucky.html
 http://www.uky.edu/hr/compensation
 http://opendoor.ky.gov/search/Pages/SalarySearch.aspx

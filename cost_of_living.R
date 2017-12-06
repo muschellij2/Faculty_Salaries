@@ -19,4 +19,5 @@ col = paste0("[{",
     "}]")
 col_df = fromJSON(col)
 
-save(states, col_df, file = "Cost_of_Living.rda")
+save(states, col_df, 
+    file = "Cost_of_Living.rda")

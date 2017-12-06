@@ -1,0 +1,6 @@
+load("/Users/johnmuschelli/Dropbox/Packages/Faculty_Salaries/data/UMich.rda")
+ls()
+head(all_df)
+x = read.table("~/Dropbox/Packages/Faculty_Salaries/data/WaStEmployeeHistSalary.txt")
+x = read.csv("~/Dropbox/Packages/Faculty_Salaries/data/WaStEmployeeHistSalary.txt")
+head(x)
